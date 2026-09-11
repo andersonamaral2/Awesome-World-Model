@@ -1051,20 +1051,20 @@ Autonomous Driving.  **`arXiv 25.5`** [[Paper](https://arxiv.org/abs/2505.19239)
 
 ## 🔔 Scoras Digital DevOps Agent — Verificação
 
-[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-43%2F100%20(D)-orange?style=for-the-badge&logo=github)](./andersonamaral2_Awesome-World-Model_2026-09-10.md)
+[![DevOps Score](https://img.shields.io/badge/DevOps%20Score-43%2F100%20(D)-orange?style=for-the-badge&logo=github)](./andersonamaral2_Awesome-World-Model_2026-09-11.md)
 [![Scoras DevOps Agent](https://img.shields.io/badge/Scoras_DevOps_Agent-Verificado-blue?style=for-the-badge&logo=githubactions)](https://github.com/andersonamaral2/Awesome-World-Model)
 
 | Campo | Valor |
 |-------|-------|
 | 🤖 Avaliado por | Scoras Digital DevOps Agent |
-| 📅 Data da Avaliação | `10/09/2026` |
+| 📅 Data da Avaliação | `11/09/2026` |
 | 📊 Score DevOps & Segurança | `43/100` |
 | 🎯 Nota | D — Abaixo do esperado |
-| 📄 Relatório Completo | [andersonamaral2_Awesome-World-Model_2026-09-10.md](./andersonamaral2_Awesome-World-Model_2026-09-10.md) |
+| 📄 Relatório Completo | [andersonamaral2_Awesome-World-Model_2026-09-11.md](./andersonamaral2_Awesome-World-Model_2026-09-11.md) |
 
 > *Este repositório foi auditado automaticamente pelo **Scoras Digital DevOps Agent**,*  
 > *verificando métricas DORA, CI/CD, segurança (CVEs, secrets, SAST) e boas práticas.*  
-> *Última avaliação: **10/09/2026***
+> *Última avaliação: **11/09/2026***
 
 ---
 
